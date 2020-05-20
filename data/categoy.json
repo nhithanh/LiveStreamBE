@@ -1,0 +1,250 @@
+{
+    "categories": [
+        {
+            "categoryName":"Idol",
+            "type":1,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583149713/categories/img_y59jch.jpg",
+            "smallImageUrl":"https://res.cloudinary.com/livestreamzz/image/upload/v1583150065/categories/small/small_u52nfu.jpg"
+        },
+        {
+            "categoryName":"Ẩm thực",
+            "type":1,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583113179/categories/cuisine_besxbt.jpg",
+            "smallImageUrl":"https://res.cloudinary.com/livestreamzz/image/upload/v1583113231/categories/small/cuisine_kldvei.jpg"
+        },
+        {
+            "categoryName":"Du lịch",
+            "type":1,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583116783/categories/travel_fwc4wa.jpg",
+            "smallImageUrl":"https://res.cloudinary.com/livestreamzz/image/upload/v1583116818/categories/small/travel_aid524.jpg"
+        },
+        {
+            "categoryName":"GTA5",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583101407/categories/1_budysa.jpg",
+            "smallImageUrl":"https://res.cloudinary.com/livestreamzz/image/upload/v1583111976/categories/small/gta5_t1dizy.png"
+        },
+        {
+            "categoryName":"Liên Minh Huyền Thoại",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583101407/categories/2_kjnawo.jpg",
+            "smallImageUrl":"https://res.cloudinary.com/livestreamzz/image/upload/v1583111976/categories/small/lol_o4f6xf.jpg"
+        },
+        {
+            "categoryName":"Human: Fall Flat",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583101407/categories/3_i0yi54.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"PUBG",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583111976/categories/small/pupg_hrwfnm.png",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Apex Legends",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583101406/categories/5_sw4k9q.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Dota 2",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583101406/categories/6_qhc3oa.jpg",
+            "smallImageUrl":"https://res.cloudinary.com/livestreamzz/image/upload/v1583111976/categories/small/dota2_lfafk7.jpg"
+        },
+        {
+            "categoryName":"Minecraft",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583101406/categories/7_yxwgya.jpg",
+            "smallImageUrl":"https://res.cloudinary.com/livestreamzz/image/upload/v1583111976/categories/small/minecraft_uokerb.png"
+        },
+        {
+            "categoryName":"slither.io",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583101406/categories/8_ui4cnb.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Point Blank",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583101407/categories/10_amrcml.png",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Raft",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583101407/categories/11_imb4iq.png",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Rainbow Six Siege",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583101406/categories/12_eyitkw.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"OutLast",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583101407/categories/13_rvlwo2.png",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Fortnite",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583101407/categories/14_z3z1m3.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Dead By Daylight",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583101407/categories/15_fqktwy.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Blade & Soul",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583101407/categories/16_pbxuht.png",
+            "smallImageUrl":"https://res.cloudinary.com/livestreamzz/image/upload/v1583111976/categories/small/blade_and_soul_x3ezvl.png"
+        },
+        {
+            "categoryName":"Subnautica",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102212/categories/1_ej9ivs.png",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"God of War",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102213/categories/3_uvqubu.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"The Sims 4",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102213/categories/4_fbb55o.png",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Heathstone",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583108864/categories/img_v5aopi.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"PES 2018",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583108930/categories/img_pawiij.png",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"ARK: Suvival Evolved",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102213/categories/7_o6an30.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Rust",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102213/categories/8_fxzkzv.png",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Devil May Cry 4",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102213/categories/9_anqr40.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"FIFA",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102214/categories/10_hviifo.png",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Left 4 Dead 2",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102211/categories/11_o0ay4g.png",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"CS:GO",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102211/categories/12_wki8uh.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Far Cry 5",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102211/categories/13_weyhix.png",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"The Forest",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102212/categories/14_k2vcxb.png",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Warframes",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102211/categories/15_lrcwvj.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Lớp Họp Cao Thủ",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102211/categories/16_gwzn1v.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Hitman: Sniper",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102212/categories/17_pcjfmk.png",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"League of stickman",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102212/categories/18_sesnnx.png",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Reporter 2",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102212/categories/19_lg7lnb.png",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Car X Dift Racing",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102212/categories/20_ne8olf.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Assetto Corsa",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102212/categories/21_iqgwot.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Raceroom",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102212/categories/22_jycn2q.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Call of Duty",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102213/categories/25_ga6q8j.jpg",
+            "smallImageUrl":null
+        },
+        {
+            "categoryName":"Overwatch",
+            "type":0,
+            "imageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583102213/categories/24_npsrsk.jpg",
+            "smallImageUrl": "https://res.cloudinary.com/livestreamzz/image/upload/v1583111976/categories/small/overwatch_tqj5rl.png"
+        }
+    ]
+}
